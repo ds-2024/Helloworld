@@ -5,6 +5,7 @@ public class Helloworld {
 		
 		System.out.println("Helloworld");
 		System.out.println("안녕세상");
+		System.out.println("12345");
 	}
 
 }
